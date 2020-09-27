@@ -10,9 +10,6 @@
  4. Created upper and lower limits.
  
 ### Credits : @chrisblakely01
-### Document Link
-
-> https://codesandbox.io/s/temperature-control-1yj5o?file=/src/App.js
 
 ### Youtube Link
 
