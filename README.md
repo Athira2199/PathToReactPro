@@ -1,8 +1,7 @@
 # PathToReactPro
 
-> A informal documentation for my react mastering jorney.
+> A informal documentation for my react mastering jorney and a manual for anyone wishing to try it out.
 
- ## Day 1
  ### Project 1 : Simple temperature control interface
  1. Learnt about useState in react.
  2. Changed state based on conditions.
@@ -15,7 +14,6 @@
 
 > https://www.youtube.com/watch?v=V3bhcxpoxQU&ab_channel=ChrisBlakely
 
-## Day 2
 ### Project 2 : Simple form submission & validation
 1. A better overview of useState.
 2. Used more than one state.
@@ -28,7 +26,6 @@
 
 > https://www.youtube.com/watch?v=8hU0I8rY4u4&ab_channel=ChrisBlakely 
 
-## Day 3
 ### Project 3: A simple movie app
 1. Learnt to work with axios in react.
 2. Got a better understanding of props.
@@ -41,3 +38,17 @@
 ### Youtube Link
 
 > https://www.youtube.com/watch?v=ufodJVcpmps&ab_channel=TylerPotts
+
+# Project 4: Food recipe app
+
+1. Brushed up on existing topics including but not limited to props and usestates.
+2. Worked with useEffect.
+3. Learnt about .json() function seeing scenario of the usage of the same.
+4. Analyzed on the use case in hand and led to creation of new components.
+5. Attained broader perspective in using props and components.
+
+### Credits : @Dev Ed
+
+### Youtube Link
+
+> https://www.youtube.com/watch?v=U9T6YkEDkMo&t=929s&ab_channel=DevEd
