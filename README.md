@@ -28,3 +28,16 @@
 
 > https://www.youtube.com/watch?v=8hU0I8rY4u4&ab_channel=ChrisBlakely 
 
+## Day 3
+### Project 3: A simple movie app
+1. Learnt to work with axios in react.
+2. Got a better understanding of props.
+3. Got a new outlook in sing ternary.
+4. Worked with various props.
+5. Worked with various components.
+
+### Credits : @TylerPottsDev
+
+### Youtube Link
+
+> https://www.youtube.com/watch?v=ufodJVcpmps&ab_channel=TylerPotts
